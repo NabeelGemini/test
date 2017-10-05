@@ -22,6 +22,38 @@ how to create repository on github and push data to it?
 	paste your project which you want to upload in the testing folder
 
 	run git status
-	run git add .
-	run git commit -m "write some hint"  like clash free time table
+	
+	run git commit -m "Initial Commit"  like clash free time table
 	run git push origin master.
+
+to make dr initial
+	git init
+
+
+check the name of remote.
+
+	git remote -v
+
+
+how to add file:
+	git add file.extension
+
+
+ for all files
+	git add all
+	git add .
+
+
+how to untracked file 
+	git rm --cached file.extension
+
+
+check status
+	git status
+
+
+commit the changes
+	git commit --m "Initial Commit"
+
+git commit history
+	git log
