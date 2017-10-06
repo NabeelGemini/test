@@ -7,7 +7,7 @@ how to create repository on github and push data to it?
 ->go to top right side of the screen and click on (+) sign to create new repository.
 
 ->click on new repository  and then type the name of repsotory and other details.
-
+->ok bro
 
 -> and press on create repository.
 -> copy the address of you repository
